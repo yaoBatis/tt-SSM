@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../tt-test/tt-common.iml" filepath="$PROJECT_DIR$/../tt-test/tt-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-test/tt-manager.iml" filepath="$PROJECT_DIR$/../tt-test/tt-manager.iml" group="tt-manager and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-test/tt-manager-dao.iml" filepath="$PROJECT_DIR$/../tt-test/tt-manager-dao.iml" group="tt-manager and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-test/tt-manager-interface.iml" filepath="$PROJECT_DIR$/../tt-test/tt-manager-interface.iml" group="tt-manager and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-test/tt-manager-pojo.iml" filepath="$PROJECT_DIR$/../tt-test/tt-manager-pojo.iml" group="tt-manager and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-test/tt-manager-service.iml" filepath="$PROJECT_DIR$/../tt-test/tt-manager-service.iml" group="tt-manager and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-test/tt-manager-web.iml" filepath="$PROJECT_DIR$/../tt-test/tt-manager-web.iml" group="tt-manager and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-test/tt-parent.iml" filepath="$PROJECT_DIR$/../tt-test/tt-parent.iml" />
+    </modules>
+  </component>
+</project>
